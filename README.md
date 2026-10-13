@@ -47,7 +47,7 @@ src/main/java/com/example/demo/
 
 1. Clone o repositório
 ```bash
-git clone https://github.com/gabriellpachecok-lgtm/api-tarefas-jwt.git
+git clone https://github.com/Gabriel-Pacheco-K/api-tarefas-jwt.git
 ```
 
 2. Crie o banco de dados no PostgreSQL
